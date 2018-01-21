@@ -25,7 +25,7 @@ a {
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:hover {
-    color: #f05f40; }
+    color:#ffc103 ; }
 
 h1,
 h2,
@@ -134,7 +134,7 @@ body {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/raizofundo.jpg");
+  background-image: url("../img/raizofundo.png");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
